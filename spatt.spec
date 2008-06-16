@@ -1,7 +1,7 @@
 Summary:	A set of programs for performing statistics on words or  patterns
 Name:		spatt
 Version:	1.2.2
-Release:	%mkrel 2
+Release:	%mkrel 3
 Source0:	http://stat.genopole.cnrs.fr/%{name}/%{name}-%{version}.tar.bz2
 License:	GPLv2+
 Group:		Sciences/Biology
