@@ -5,7 +5,7 @@ Release:	%mkrel 5
 Source0:	http://stat.genopole.cnrs.fr/%{name}/%{name}-%{version}.tar.bz2
 License:	GPLv2+
 Group:		Sciences/Biology
-URL:		http://stat.genopole.cnrs.fr/%{name}
+URL:		https://stat.genopole.cnrs.fr/%{name}
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	gsl-devel
 BuildRequires:	gcc
